@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Order Priority Field",
+    'name': "Adding Order Priority Field",
 
-    'summary': "Adding a Priority field on sales quotation model",
+    'summary': "Adding a Priority field on quatation, invoice and inventory pages",
 
     'description': """
-Adding a Priority field on sales quotation model
+Adding a Priority field on quatation, invoice and inventory pages
     """,
 
     'author': "My Company",
